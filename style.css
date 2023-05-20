@@ -3,26 +3,54 @@
     padding: 0;
 }
 
-.cabeçalho{
+body{
     background-color: #424E61;
+}
+
+.cabeçalho{
     color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 20px;
-    font-size: 23px;
+    font-size: 24px;
 }
 
 .imagem-cabeçalho{
     width: 15%;
     display: inline-block;
 }
-.cabeçalho-lista1{
-    
+
+.cabecalho-lista{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 25px;
 }
 
-.cabeçalho-lista2{
-   
+.NKD{
+    background-image: linear-gradient(#424E61,#4e4f50);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
+
+.NKD-conteudo-um{
+    width: 35%;
+}
+
+.NKD-conteudo-dois{
+    width: 15%;
+}
+
+.NKD-titulo{
+    padding: 24px;
+}
+
+
+
+
+
 
 
