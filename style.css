@@ -13,7 +13,7 @@ body{
     justify-content: space-around;
     align-items: center;
     padding: 20px;
-    font-size: 120px;
+    font-size: 24px;
 }
 
 .imagem-cabeçalho{
@@ -24,7 +24,7 @@ body{
 .cabecalho-lista{
     display: inline-block;
     margin: 0 16px;
-    font-size: 90px;
+    font-size: 25px;
 }
 
 .NKD{
@@ -37,8 +37,7 @@ body{
 }
 
 .NKD-conteudo-um{
-    width: 40%;
-    font-size: 70px;
+    width: 35%;
 }
 
 .NKD-conteudo-dois{
@@ -46,7 +45,7 @@ body{
 }
 
 .NKD-titulo{
-    padding: 50px;
+    padding: 24px;
 }
 
 
